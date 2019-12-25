@@ -1,7 +1,8 @@
 {
   "name": "react-mindmap-nyanko",
-  "version": "0.1.12",
+  "version": "0.1.13",
   "license": "MIT",
+  "private": true,
   "homepage": "https://awehook.github.io/react-mindmap/",
   "dependencies": {
     "@blink-mind/core": "0.0.14",
